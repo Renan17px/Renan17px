@@ -1,6 +1,6 @@
 Bom dia! 
 
-Aqui quem fala é o Renan, o famoso gordo da terra.
+Aqui quem fala é o Renan
 
 Atualmente estou cursando na faculdade Análise e Desenvolvimento de Sistemas.
 
